@@ -876,17 +876,6 @@
       "twitterXUrl": "https://x.com/shadowmarkets_"
     },
     {
-      "key": "shadowmarket",
-      "name": "Shadow Markets",
-      "url": "https://www.shadowmarkets.app/",
-      "description": "Copy trading platform for prediction markets",
-      "tags": ["Trade Tools"],
-      "supportedPlatforms": ["polymarket", "kalshi"],
-      "imageUrl": "https://pbs.twimg.com/profile_images/1987603073456336896/iJNy9pkq_400x400.jpg",
-      "heroImageUrl": "https://pbs.twimg.com/profile_banners/1987601608759468032/1762716892/1500x500",
-      "twitterXUrl": "https://x.com/shadowmarkets_"
-    },
-    {
       "key": "synthesis",
       "name": "Synthesis",
       "url": "https://www.shadowmarkets.app/",
