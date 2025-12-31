@@ -81,7 +81,7 @@
       "description": "Prediction market platform that allows you to bet on the outcome of events.",
       "tags": ["Platform"],
       "supportedPlatforms": ["manifold"],
-      "imageUrl": "/manifold.png",
+      "imageUrl": "/manifold.jpg",
       "heroImageUrl": "https://novig.com/assets/images/logo.svg",
       "twitterXUrl": "https://x.com/ManifoldMarkets",
       "discordUrl": "https://discord.gg/X2uy63PzCp"
